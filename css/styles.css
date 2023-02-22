@@ -1,5 +1,6 @@
 body {
   width: 50%;
+  align-items: center;
 }
 
 .buttonWrapper {
@@ -12,5 +13,10 @@ body {
 }
 
 .cell {
+  
+}
+
+.inputScreen {
   border: 1px solid black;
+  width: 50%;
 }
